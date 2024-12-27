@@ -48,37 +48,22 @@ Anyone who has basic Python knowledge and wants to build complex and practical m
 
 15 Lessons・7 Code Examples
 
-__Introduction__ *Video・4 mins*
-
-__Overview of Multi AI-Agent Systems__ *・Video・12 mins*
-
-__Automated Project: Planning, Estimation, and Allocation__ *・Video with code examples・14 mins*
-
-__Internal and External Integrations__ *・Video・3 mins*
-
-__Building Project Progress Report__ *・Video with code examples・12 mins*
-
-__Complex crew Setups__ *・Video・3 mins*
-
-__Agentic Sales Pipeline__ *・Video with code examples・28 mins*
-
-__Performance Optimization__ *・Video・7 mins*
-
-__Support Data Insight Analysis__ *・Video with code examples・25 mins*
-
-__Multi-Model Use Cases__ *・Video・3 mins*
-
-__Content Creation at Scale__ *・Video with code examples・17 mins*
-
-__Agentic Workflows in Industry__ *・Video・10 mins*
-
-__Generate, Deploy and Monitor Crews__ *・Video・8 mins*
-
-__Blog Post Crew in Production__ *・Video with code examples・10 mins*
-
-__Conclusion__ *・Video・1 min*
-
-__Appendix - Tips and Help__ *・Code examples・1 min*
+* __Introduction__ *Video・4 mins*
+* __Overview of Multi AI-Agent Systems__ *・Video・12 mins*
+* __Automated Project: Planning, Estimation, and Allocation__ *・Video with code examples・14 mins*
+* __Internal and External Integrations__ *・Video・3 mins*
+* __Building Project Progress Report__ *・Video with code examples・12 mins*
+* __Complex crew Setups__ *・Video・3 mins*
+* __Agentic Sales Pipeline__ *・Video with code examples・28 mins*
+* __Performance Optimization__ *・Video・7 mins*
+* __Support Data Insight Analysis__ *・Video with code examples・25 mins*
+* __Multi-Model Use Cases__ *・Video・3 mins*
+* __Content Creation at Scale__ *・Video with code examples・17 mins*
+* __Agentic Workflows in Industry__ *・Video・10 mins*
+* __Generate, Deploy and Monitor Crews__ *・Video・8 mins*
+* __Blog Post Crew in Production__ *・Video with code examples・10 mins*
+* __Conclusion__ *・Video・1 min*
+* __Appendix - Tips and Help__ *・Code examples・1 min*
 
 ## Instructor
 
